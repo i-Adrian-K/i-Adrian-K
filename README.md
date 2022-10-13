@@ -1,58 +1,65 @@
-<h1 align="center">Hi , I'm Adrian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Adrian Keen
+
+<h2 align="center">About me</h2>
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover",
+		"- 🔭 I’m currently working on":      "Fiji Gov as a Full Stack Developer (Handling COVID-19 Web App) --- NIS as Student Software Engineer",
+		"- 🌱 I’m currently learning":        "Vue, NextJS, Python, Flutter and Dart  --- Sharpening my Back End Skills (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python and Flutter related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, Flutter, HTML, JS, Web-Dev and SEO",
+		"- 📫 How to reach me:":              "https://github.com/i-Adrian-K",
+	}
+}
+```
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pure+Science+Student;Amateur+Web+Developer;Graphics%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
 </p>
-<hr/>
-<h4 align="center">I am a Student in Grade 12 with passion for Aviation, Programming, Designing, K-Pop and Travelling. I consider myself an anti-social person but that doesn't mean I am not fun to talk to. I started learning developing in the early months of 2021. Starting from Discourse themes and Discord Bots, I worked my way through the world of coding and I am very proud to what I come to at the timeline right now.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iAdrian-K&label=Profile%20views&color=0e75b6&style=plastic" alt="iAdrian-K" /> </p>
 
-## Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdrian-K&theme=algolia" alt="iAdrian-K"  /></p>
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-## My Skills
-- HTML + CSS
-- JavaScript 
-- NodeJS (w/ Express)
-- MySQL
+<p align="center"><img src="https://profile-counter.glitch.me/{i-Adrian-K}/count.svg" alt="i-Adrian-K :: Visitor's Count" /></p>
 
-## Currently Learning |
-- Python
-- Vue
-- Next.js
-- MongoDB
+<h4 align="center">Top langs :tongue:</h4>
 
-## To Learn Later
-- TypeScript
-- Flutter & Dart
-- Go
-- React and Redux
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Adrian-K&langs_count=10&theme=tokyonight&layout=compact" alt="i-Adrian-K :: Top Langs" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=i-Adrian-K&show_icons=true&theme=synthwave" alt="i-Adrian-K :: Profile Stats" /></p>
 
-<br/>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-## Github Stats 
+----
+Credit: [AnhellO](https://github.com/AnhellO)
 
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iAdrian-K&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-	
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iAdrian-K&show_icons=true&locale=en&layout=compact&theme=algolia" alt="iAdrian-K" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-
-
-
-  <summary><b> Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/iAdrian-K"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iAdrian-K&custom_title=Adrian's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+Last Edited on: 13/10/2022
