@@ -50,7 +50,7 @@ func GetBio() Bio {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=i-Adrian-K&show_icons=true&theme=synthwave" alt="i-Adrian-K :: Profile Stats" /></p>
 
-<p align="center"><img src="https://th.bing.com/th/id/R.ee2d34121ffcc98ebcaf00eaddb31341?rik=WgF2k0MPkYYWNA&pid=ImgRaw&r=0" alt="Synthwave" height="300" width="1000"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/7f/fa/a3/7ffaa316b7a3ef24954fd430a8dbd179.jpg" alt="Synthwave" height="300" width="1000"></p>
 
 ----
 Credit: [AnhellO](https://github.com/AnhellO)
