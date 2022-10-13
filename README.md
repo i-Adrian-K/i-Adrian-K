@@ -15,22 +15,19 @@
 - HTML + CSS
 - JavaScript 
 - NodeJS (w/ Express)
-- Python
 - MySQL
-- React and Redux
 
-## Currently Learning 
+## Currently Learning |
+- Python
+- Vue
 - Next.js
-- EJS
 - MongoDB
 
 ## To Learn Later
 - TypeScript
 - Flutter & Dart
-- C# (w/ Xamarin)
 - Go
-- C++ (w/ Unreal Engine)
-- PHP
+- React and Redux
 
 
 
